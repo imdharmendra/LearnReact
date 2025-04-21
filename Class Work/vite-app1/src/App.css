@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+}
+
+.tags {
+    margin: 2% 0%;
+    justify-content: space-around;
+    display: flex;
+}
+
+.para {
+    margin: 2% 0%;
+    display: flex;
+    justify-content: space-between;
+}

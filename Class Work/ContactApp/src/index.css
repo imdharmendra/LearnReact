@@ -1,0 +1,145 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: rgb(3, 0, 25);
+  color: white;
+}
+h1{
+  margin: 5%;
+  margin-bottom: 0;
+}
+header ul {
+  list-style: none;
+  display: flex;
+  gap: 40px;
+  background:linear-gradient(135deg, #3e1076, #4220c9);
+  padding: 2% 5%;
+}
+header ul a{
+  text-decoration: none;
+  color: white;
+  border: 1px solid white;
+  border-radius: 10px;
+  padding: 5px;
+  background:linear-gradient(to right,#6a1b9a,#8e24aa, #ba68c8);
+}
+.insert{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5% 20%;
+}
+input{
+  text-align: center;
+  border: 1px solid white;
+  display: block;
+  padding: 2%;
+  font-size: 20px;
+  margin:  4% 3%;
+  width: 90%;
+}
+button{
+  padding: 2%;
+  border: 1px solid white;
+  width: 14%;
+  margin-bottom: 3%;
+}
+.table{
+  padding: 0 3%;
+}
+table{
+  margin: 2% 5%;
+  text-transform: capitalize;
+  text-align: center;
+  border-color: white
+}
+table th{
+  padding: 1%;
+}
+table td{
+  padding: 3%;
+  width: 10%
+}
+a{
+  text-decoration: none;
+  color: rgb(161, 0, 0);
+}
+.page{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5% 20%;
+}
+.card{
+  margin: 5%;
+  margin-left: 13%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 70%;
+  height: 22vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card h2{
+  margin: 3%;
+}
+.update{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid white;
+  margin: 5%;
+  padding: 4%;
+}
+.left{
+  width: 50%;
+}
+.left input{
+  margin: 5%;
+  padding: 15px;
+  width: 100%;
+}
+.btn1 button{
+  margin: 0px 48%;
+  padding: 15px;
+  width: 22%;
+}
+.card2{
+  margin: 3%;
+  margin-left: 15%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 40%;
+  height: 21vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card2 h2{
+  margin: 3%;
+}
+.dpage{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5% 20%;
+}
+.card3{
+  margin: 5%;
+  margin-left: 13%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 70%;
+  height: 22vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card3 h2{
+  margin: 3%;
+}
+
+

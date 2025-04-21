@@ -1,0 +1,172 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+header{
+  background-color: rgb(3, 0, 25);
+  padding: 2%;
+  color: white;
+}
+aside{
+  width: 22%;
+  min-height: 75vh;
+  margin: 1%;
+  padding: 1%;
+  background:linear-gradient(135deg, #3e1076, #4220c9);
+}
+aside ul li{
+  list-style: none;
+  text-align: center;
+  margin: 20% 2%;
+  font-size: 20px;
+}
+aside ul a{
+  text-decoration: none;
+  color: white;
+}
+
+.body{
+  display: flex;
+  justify-content: space-between;
+}
+.Data{
+  width: 75%;
+  background:linear-gradient(135deg, #3e1076, #4220c9) ;
+  min-height: 75vh;
+  margin: 1%;
+  color: white;
+  padding: 2% 5%;
+}
+.home{
+  padding: 2% 5%;
+}
+.home h1{
+  margin-bottom: 2%;
+  font-size: 50px;
+}
+.insert{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5%;
+}
+input{
+  text-align: center;
+  border: 2px solid black;
+  display: block;
+  padding: 2%;
+  font-size: 20px;
+  margin:  4% 3%;
+  width: 90%;
+}
+button{
+  background-color: rgb(175, 173, 173);
+  padding: 2%;
+  border: 1px solid black;
+  width: 14%;
+  margin-bottom: 3%;
+}
+.table{
+  padding: 2%;
+}
+table{
+  margin: 2%;
+  text-transform: capitalize;
+  text-align: center;
+  border-color: white;
+  height: auto;
+}
+table th{
+  padding: 1%;
+}
+table td{
+  padding: 2%;
+  width: 5%;
+}
+a{
+  text-decoration: none;
+  color: rgb(161, 0, 0);
+}
+.page{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5%;
+  margin-top: 9%;
+}
+.card{
+  margin: 5%;
+  margin-left: 13%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 70%;
+  height: 22vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card h2{
+  margin: 3%;
+}
+.update{
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid white;
+  margin: 2%;
+  margin-top: 10%;
+  padding: 2%;
+}
+.left{
+  width: 50%;
+}
+.left input{
+  margin: 5%;
+  padding: 15px;
+  width: 100%;
+}
+.btn1 button{
+  background-color: rgb(175, 173, 173);
+  margin: 0px 45%;
+  padding: 15px;
+  width: 30%;
+}
+.card2{
+  margin: 3%;
+  margin-left: 15%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 40%;
+  height: 21vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card2 h2{
+  margin: 3%;
+}
+.dpage{
+  justify-content: center;
+  text-align: center;
+  padding: 2%;
+  border: 2px solid white;
+  margin: 5%;
+  margin-top: 7%;
+}
+.card3{
+  margin: 5%;
+  margin-left: 13%;
+  border: 1px solid white;
+  border-radius: 5px;
+  padding: 2%;
+  width: 70%;
+  height: 22vh;
+  text-transform: capitalize;
+  text-align: center;
+}
+.card3 h2{
+  margin: 3%;
+}
+

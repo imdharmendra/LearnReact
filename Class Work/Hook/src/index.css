@@ -1,0 +1,239 @@
+/* .navs ul {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    width: 90%;
+    justify-content: space-between;
+    background-color: bisque;
+    padding: 2% 5%;
+}
+
+.article {
+    padding: 2% 5%;
+    text-align: center;
+    background-color: rgb(210, 152, 64);
+}
+
+.template {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.data {
+    width: 35%;
+    padding: 2% 5%;
+}
+
+.data input {
+    width: 100%;
+    display: block;
+    margin: 5% 0px;
+    padding: 2%;
+    font-size: 18px;
+    background-color: rgb(230, 227, 227);
+}
+
+.card {
+    background-color: rgb(238, 214, 214);
+    width: 40%;
+    padding: 2% 5%;
+    text-align: center;
+    border: 2px solid rgb(85, 13, 13);
+    border-radius: 20px;
+    margin: 2%;
+}
+
+.card h1 {
+    background-color: rgb(85, 13, 13);
+    color: white;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.inp input {
+    display: block;
+    margin: 45px 0px;
+}
+
+.btn {
+    text-align: right;
+    margin-right: 50px;
+}
+
+.btn button {
+    width: 5%;
+    padding: 1%;
+    background-color: rgb(51, 112, 112);
+    color: aliceblue;
+    border: 2px solid black;
+    border-radius: 5px;
+} */
+
+/* POSTS.JSX CSS */
+.pack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 100px;
+}
+
+.card {
+    border: 1px solid grey;
+    padding: 1%;
+    width: 30%;
+    min-height: 22vh;
+    margin-bottom: 1vh;
+}
+
+.card h4 {
+    color: red;
+}
+
+.card .detail {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img {
+    width: 100%;
+}
+
+/* COMMENTS.JSX CSS */
+/* .pack{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+ .card{
+   border: 1px solid grey;
+   border-radius: 10px;
+   padding: 1%;
+   min-height: 24vh;
+   margin-bottom: 1vh;
+   background-color: rgb(197, 228, 255);
+   text-align: center;
+ } */
+
+/* ALBUM.JSX CSS */
+/* .card{
+   border: 1px solid grey;
+   border-radius: 10px;
+   padding: 1%;
+   margin-bottom: 1vh;
+   background-color: rgb(8, 77, 77);
+   color: white;
+ }
+  */
+
+/* PHOTO.JSX CSS */
+/* .pack{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+ .card{
+   border: 1px solid grey;
+   border-radius: 10px;
+   width: 22%;
+   padding: 1%;
+   margin-bottom: 1vh;
+
+ }
+ .card img{
+    width: 100%;
+    height: 30vh;
+ } */
+
+/* TODOS.JSX CSS */
+/* .pack{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ }
+ .card{
+    margin-bottom: 1vh;
+    height: 24vh;
+ }
+.card table {
+    border: 1px solid black;
+    text-align: center;
+}
+.card th{
+    border: 1px solid black;
+    padding: 2%;
+    background-color: blanchedalmond;
+}
+.card td{
+    border: 1px solid black;
+    padding: 2%;
+    background-color:cornsilk;
+} */
+
+
+/* USERS.JSX CSS */
+/* .pack {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    border: 2px solid black;
+    padding: 2%;
+    width: 32%;
+    margin-bottom: 1vh;
+
+}
+
+.id {
+    display: flex;
+    justify-content: space-between;
+}
+
+.id img {
+    margin-top: 30px
+}
+
+#style1 {
+    background: linear-gradient(135deg, #1E90FF, #8A2BE2);
+    color: white;
+}
+
+#style1 img {
+    border-radius: 5px;
+    border: 5px solid white;
+
+}
+
+#style2 {
+    background: linear-gradient(135deg, #4caf50, #2196f3);
+    color: white;
+
+    .box:nth-child(1) {
+        order: 2;
+    }
+
+    font-style: italic;
+}
+
+#style2 img {
+    border-radius: 50%;
+    width: 135px;
+    height: 135px;
+    border: 5px solid white;
+
+}
+
+#style3 {
+    background: linear-gradient(135deg, #ff7f50, #ff1493);
+    color: white;
+    text-align: center;
+}
+
+#style3 img {
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    border: 5px solid white;
+} */

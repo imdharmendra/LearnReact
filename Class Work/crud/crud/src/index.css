@@ -1,0 +1,13 @@
+.table{
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.border{
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.btn-danger{
+    margin-left: 10px;
+}
+h2{
+    text-align: center;
+}

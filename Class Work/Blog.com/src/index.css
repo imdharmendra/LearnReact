@@ -1,0 +1,45 @@
+marquee {
+    margin: 0;
+    padding: 1%;
+    color: green;
+    font-size: large;
+}
+
+header {
+    padding: 2% 5%;
+    background-color: rgb(166, 91, 166);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+}
+
+header h1 {
+    color: rgb(100, 25, 118);
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+navbar ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+navbar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    color: burlywood;
+}
+
+.article {
+    background-color: bisque;
+    padding: 2% 5%;
+    margin-top: 15px;
+}

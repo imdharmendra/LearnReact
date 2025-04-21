@@ -1,0 +1,55 @@
+marquee {
+    margin: 0;
+    padding: 1%;
+    color: green;
+    font-size: 18px;
+}
+
+aside {
+    padding: 2%;
+    background-color: rgb(166, 91, 166);
+    width: 15%;
+    text-align: center;
+    font-size: 20px;
+}
+
+aside h1 {
+    color: rgb(100, 25, 118);
+}
+
+navbar ul {
+    list-style: none;
+    display: block;
+    padding: 20px 2px;
+}
+
+navbar ul li a {
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+}
+
+navbar ul li {
+    padding: 30px;
+}
+
+.active {
+    color: burlywood;
+}
+
+.article {
+    background-color: bisque;
+    padding: 2% 5%;
+    width: 70%;
+}
+
+.aside {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img a {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+    padding: 4%;
+}
